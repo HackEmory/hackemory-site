@@ -56,7 +56,7 @@ h6 {
 
 header {
   background-image: url("../img/background.jpg") !important;
-  color: black;
+#  color: black;
 }
 
 header.masthead {
